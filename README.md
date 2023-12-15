@@ -1,2 +1,9 @@
 # cloudphoto
-Приложение командной строки (CLI) для управления альбомами, фотографиями в облачном хранилище Yandex Object Storage, для формирования и публикации веб-страниц фотоархива.
+
+A command-line application (CLI) for managing albums, photos in Yandex Cloud Object Storage cloud storage, for generating and publishing photo archive web pages.
+
+## how to use
+
+> sudo ./install.sh
+
+> cloudphoto --help
